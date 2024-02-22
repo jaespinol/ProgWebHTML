@@ -1,0 +1,26 @@
+{
+  "name": "tacos_perry",
+  "version": "1.0.0",
+  "description": "Proyecto en HTML CCS3\u001b[D\u001b[D\u001b[D\u001b[, \u001b[C\u001b[C\u001b[C y Bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaespinol/ProgWebHTML.git"
+  },
+  "keywords": [
+    "tacos",
+    "perry",
+    "comida",
+    "burritos",
+    "tostadas"
+  ],
+  "author": "JA ANTONIO ESPINO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaespinol/ProgWebHTML/issues"
+  },
+  "homepage": "https://github.com/jaespinol/ProgWebHTML#readme"
+}
