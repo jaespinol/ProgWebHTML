@@ -4,6 +4,7 @@
   "description": "Proyecto en HTML CCS3\u001b[D\u001b[D\u001b[D\u001b[, \u001b[C\u001b[C\u001b[C y Bootstrap",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "test"
   },
   "repository": {
@@ -22,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/jaespinol/ProgWebHTML/issues"
   },
-  "homepage": "https://github.com/jaespinol/ProgWebHTML#readme"
+  "homepage": "https://github.com/jaespinol/ProgWebHTML#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }
